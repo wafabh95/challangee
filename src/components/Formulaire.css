@@ -1,0 +1,13 @@
+.formulaire{
+   display: flex;
+   justify-content: center;
+
+}
+body{
+    font-family: revert !important;
+
+}
+.forma{
+  
+    width: 80%;
+}
